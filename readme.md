@@ -1,6 +1,2 @@
-# PackageWorkshop 
-Another awesome umbraco package. 
-
-<!-- Tell us about your package here -->
-
-
+# PackageWorkshop
+Demo package from the Umbraco Package workshop
